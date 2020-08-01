@@ -46,11 +46,16 @@ docker run -d -p 8080:80 bender-nginx
 curl http://localhost:8080
 ```
 ---
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-License: MIT
+
 ---
 ## Thanks
+
 base image on
-[marshallford]https://github.com/marshallford/podman
-[jandradap]https://github.com/jandradap/ansible-bender
-[ansible-bender]https://github.com/ansible-community/ansible-bender
+
+[marshallford](https://github.com/marshallford/podman)
+
+[jandradap](https://github.com/jandradap/ansible-bender)
+
+[ansible-bender](https://github.com/ansible-community/ansible-bender)
